@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.currency-name-style {
+  flex-grow: 1;
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 60px;
+}
+.logo-style {
+  height: 25px;
+  margin-right: 15px;
+}
+p {
+  margin-bottom: 0px;
+}
